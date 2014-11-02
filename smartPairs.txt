@@ -1,0 +1,63 @@
+Muse,The Beatles
+Muse,Radiohead
+Muse,Coldplay
+Muse,Lady Gaga
+Muse,Nirvana
+Muse,Arctic Monkeys
+Muse,Paramore
+Muse,The Killers
+Muse,Placebo
+Muse,Red Hot Chili Peppers
+Muse,Metallica
+The Beatles,Radiohead
+The Beatles,Coldplay
+The Beatles,Lady Gaga
+The Beatles,Nirvana
+The Beatles,Arctic Monkeys
+The Beatles,Paramore
+The Beatles,The Killers
+Radiohead,Coldplay
+Radiohead,Lady Gaga
+Radiohead,Nirvana
+Radiohead,Arctic Monkeys
+Radiohead,Paramore
+Radiohead,The Killers
+Radiohead,Placebo
+Coldplay,Lady Gaga
+Coldplay,Nirvana
+Coldplay,Arctic Monkeys
+Coldplay,Paramore
+Coldplay,The Killers
+Coldplay,Placebo
+Coldplay,Red Hot Chili Peppers
+Coldplay,Metallica
+Coldplay,Pink Floyd
+Coldplay,Green Day
+Coldplay,Linkin Park
+Coldplay,The Smiths
+Coldplay,The Cure
+Lady Gaga,Nirvana
+Lady Gaga,Arctic Monkeys
+Lady Gaga,Paramore
+Lady Gaga,The Killers
+Lady Gaga,Placebo
+Lady Gaga,Red Hot Chili Peppers
+Lady Gaga,Metallica
+Lady Gaga,Pink Floyd
+Lady Gaga,Green Day
+Lady Gaga,Linkin Park
+Nirvana,Arctic Monkeys
+Nirvana,Paramore
+Nirvana,The Killers
+Nirvana,Placebo
+Nirvana,Red Hot Chili Peppers
+Nirvana,Metallica
+Nirvana,Pink Floyd
+Nirvana,Green Day
+Arctic Monkeys,Paramore
+Arctic Monkeys,The Killers
+Arctic Monkeys,Placebo
+Arctic Monkeys,Red Hot Chili Peppers
+Arctic Monkeys,Metallica
+Paramore,The Killers
+Paramore,Placebo
