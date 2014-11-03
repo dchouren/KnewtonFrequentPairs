@@ -9,6 +9,111 @@ Muse,The Killers
 Muse,Placebo
 Muse,Red Hot Chili Peppers
 Muse,Metallica
+Muse,Pink Floyd
+Muse,Green Day
+Muse,Linkin Park
+Muse,The Smiths
+Muse,The Cure
+Muse,System of a Down
+Muse,Kings of Leon
+Muse,Oasis
+Muse,MGMT
+Muse,Foo Fighters
+Muse,The Strokes
+Muse,Death Cab for Cutie
+Muse,Led Zeppelin
+Muse,30 Seconds to Mars
+Muse,Queen
+Muse,The Rolling Stones
+Muse,David Bowie
+Muse,Franz Ferdinand
+Muse,Gorillaz
+Muse,U2
+Muse,The Smashing Pumpkins
+Muse,Marilyn Manson
+Muse,Eminem
+Muse,The Kooks
+Muse,Rammstein
+Muse,Rihanna
+Muse,The White Stripes
+Muse,Guns N' Roses
+Muse,The Doors
+Muse,Florence + the Machine
+Muse,Daft Punk
+Muse,Slipknot
+Muse,My Chemical Romance
+Muse,Sigur Rós
+Muse,Björk
+Muse,Ke$ha
+Muse,Panic! At the Disco
+Muse,Queens of the Stone Age
+Muse,Modest Mouse
+Muse,Nightwish
+Muse,Korn
+Muse,Pixies
+Muse,Crystal Castles
+Muse,Black Eyed Peas
+Muse,Ramones
+Muse,Breaking Benjamin
+Muse,Alice in Chains
+Muse,Papa Roach
+Muse,Madonna
+Muse,Nickelback
+Muse,Portishead
+Muse,Slayer
+Muse,The Used
+Muse,Opeth
+Muse,Tegan and Sara
+Muse,A Perfect Circle
+Muse,In Flames
+Muse,Sonic Youth
+Muse,Kate Nash
+Muse,Kelly Clarkson
+Muse,The Fray
+Muse,The Shins
+Muse,Boys Like Girls
+Muse,Bright Eyes
+Muse,Johnny Cash
+Muse,Good Charlotte
+Muse,Creedence Clearwater Revival
+Muse,Katatonia
+Muse,Motörhead
+Muse,Alicia Keys
+Muse,Simple Plan
+Muse,Killswitch Engage
+Muse,Jay-Z
+Muse,Band of Horses
+Muse,Justin Timberlake
+Muse,Rush
+Muse,Lifehouse
+Muse,Nelly Furtado
+Muse,Iron & Wine
+Muse,Beach House
+Muse,The Chemical Brothers
+Muse,Yellowcard
+Muse,Mumford & Sons
+Muse,Dark Tranquillity
+Muse,Cute Is What We Aim For
+Muse,Breathe Carolina
+Muse,Lykke Li
+Muse,John Williams
+Muse,Thrice
+Muse,BIG BANG
+Muse,Pierce the Veil
+Muse,The Dresden Dolls
+Muse,KT Tunstall
+Muse,The Magnetic Fields
+Muse,Bee Gees
+Muse,The Hush Sound
+Muse,Koop
+Muse,Céline Dion
+Muse,Descendents
+Muse,LUNA SEA
+Muse,Flowing Tears
+Muse,Bikini Kill
+Muse,Florence Valentin
+Muse,The Hood Internet
+Muse,Blitzen Trapper
 The Beatles,Radiohead
 The Beatles,Coldplay
 The Beatles,Lady Gaga
@@ -16,6 +121,114 @@ The Beatles,Nirvana
 The Beatles,Arctic Monkeys
 The Beatles,Paramore
 The Beatles,The Killers
+The Beatles,Placebo
+The Beatles,Red Hot Chili Peppers
+The Beatles,Metallica
+The Beatles,Pink Floyd
+The Beatles,Green Day
+The Beatles,Linkin Park
+The Beatles,The Smiths
+The Beatles,The Cure
+The Beatles,System of a Down
+The Beatles,Kings of Leon
+The Beatles,Oasis
+The Beatles,MGMT
+The Beatles,Foo Fighters
+The Beatles,The Strokes
+The Beatles,Death Cab for Cutie
+The Beatles,Led Zeppelin
+The Beatles,30 Seconds to Mars
+The Beatles,Queen
+The Beatles,The Rolling Stones
+The Beatles,David Bowie
+The Beatles,Franz Ferdinand
+The Beatles,Gorillaz
+The Beatles,U2
+The Beatles,The Smashing Pumpkins
+The Beatles,Marilyn Manson
+The Beatles,Eminem
+The Beatles,The Kooks
+The Beatles,Rammstein
+The Beatles,Rihanna
+The Beatles,The White Stripes
+The Beatles,Guns N' Roses
+The Beatles,The Doors
+The Beatles,Florence + the Machine
+The Beatles,Daft Punk
+The Beatles,Slipknot
+The Beatles,My Chemical Romance
+The Beatles,Sigur Rós
+The Beatles,Björk
+The Beatles,Ke$ha
+The Beatles,Panic! At the Disco
+The Beatles,Queens of the Stone Age
+The Beatles,Modest Mouse
+The Beatles,Nightwish
+The Beatles,Korn
+The Beatles,Pixies
+The Beatles,Crystal Castles
+The Beatles,Black Eyed Peas
+The Beatles,Ramones
+The Beatles,Breaking Benjamin
+The Beatles,Alice in Chains
+The Beatles,Papa Roach
+The Beatles,Madonna
+The Beatles,Nickelback
+The Beatles,Portishead
+The Beatles,Slayer
+The Beatles,The Used
+The Beatles,Opeth
+The Beatles,Tegan and Sara
+The Beatles,A Perfect Circle
+The Beatles,In Flames
+The Beatles,Sonic Youth
+The Beatles,Kate Nash
+The Beatles,Kelly Clarkson
+The Beatles,The Fray
+The Beatles,The Shins
+The Beatles,Boys Like Girls
+The Beatles,Bright Eyes
+The Beatles,Johnny Cash
+The Beatles,Good Charlotte
+The Beatles,Creedence Clearwater Revival
+The Beatles,Katatonia
+The Beatles,Motörhead
+The Beatles,Alicia Keys
+The Beatles,Simple Plan
+The Beatles,Killswitch Engage
+The Beatles,Jay-Z
+The Beatles,Band of Horses
+The Beatles,Justin Timberlake
+The Beatles,Rush
+The Beatles,Lifehouse
+The Beatles,Nelly Furtado
+The Beatles,Iron & Wine
+The Beatles,Beach House
+The Beatles,The Chemical Brothers
+The Beatles,Yellowcard
+The Beatles,Mumford & Sons
+The Beatles,Dark Tranquillity
+The Beatles,Cute Is What We Aim For
+The Beatles,Breathe Carolina
+The Beatles,Lykke Li
+The Beatles,John Williams
+The Beatles,Thrice
+The Beatles,BIG BANG
+The Beatles,Pierce the Veil
+The Beatles,The Dresden Dolls
+The Beatles,KT Tunstall
+The Beatles,The Magnetic Fields
+The Beatles,Bee Gees
+The Beatles,The Hush Sound
+The Beatles,Koop
+The Beatles,Céline Dion
+The Beatles,Descendents
+The Beatles,LUNA SEA
+The Beatles,Flowing Tears
+The Beatles,Bikini Kill
+The Beatles,Florence Valentin
+The Beatles,The Hood Internet
+The Beatles,Blitzen Trapper
 Radiohead,Coldplay
 Radiohead,Lady Gaga
 Radiohead,Nirvana
@@ -23,6 +236,113 @@ Radiohead,Arctic Monkeys
 Radiohead,Paramore
 Radiohead,The Killers
 Radiohead,Placebo
+Radiohead,Red Hot Chili Peppers
+Radiohead,Metallica
+Radiohead,Pink Floyd
+Radiohead,Green Day
+Radiohead,Linkin Park
+Radiohead,The Smiths
+Radiohead,The Cure
+Radiohead,System of a Down
+Radiohead,Kings of Leon
+Radiohead,Oasis
+Radiohead,MGMT
+Radiohead,Foo Fighters
+Radiohead,The Strokes
+Radiohead,Death Cab for Cutie
+Radiohead,Led Zeppelin
+Radiohead,30 Seconds to Mars
+Radiohead,Queen
+Radiohead,The Rolling Stones
+Radiohead,David Bowie
+Radiohead,Franz Ferdinand
+Radiohead,Gorillaz
+Radiohead,U2
+Radiohead,The Smashing Pumpkins
+Radiohead,Marilyn Manson
+Radiohead,Eminem
+Radiohead,The Kooks
+Radiohead,Rammstein
+Radiohead,Rihanna
+Radiohead,The White Stripes
+Radiohead,Guns N' Roses
+Radiohead,The Doors
+Radiohead,Florence + the Machine
+Radiohead,Daft Punk
+Radiohead,Slipknot
+Radiohead,My Chemical Romance
+Radiohead,Sigur Rós
+Radiohead,Björk
+Radiohead,Ke$ha
+Radiohead,Panic! At the Disco
+Radiohead,Queens of the Stone Age
+Radiohead,Modest Mouse
+Radiohead,Nightwish
+Radiohead,Korn
+Radiohead,Pixies
+Radiohead,Crystal Castles
+Radiohead,Black Eyed Peas
+Radiohead,Ramones
+Radiohead,Breaking Benjamin
+Radiohead,Alice in Chains
+Radiohead,Papa Roach
+Radiohead,Madonna
+Radiohead,Nickelback
+Radiohead,Portishead
+Radiohead,Slayer
+Radiohead,The Used
+Radiohead,Opeth
+Radiohead,Tegan and Sara
+Radiohead,A Perfect Circle
+Radiohead,In Flames
+Radiohead,Sonic Youth
+Radiohead,Kate Nash
+Radiohead,Kelly Clarkson
+Radiohead,The Fray
+Radiohead,The Shins
+Radiohead,Boys Like Girls
+Radiohead,Bright Eyes
+Radiohead,Johnny Cash
+Radiohead,Good Charlotte
+Radiohead,Creedence Clearwater Revival
+Radiohead,Katatonia
+Radiohead,Motörhead
+Radiohead,Alicia Keys
+Radiohead,Simple Plan
+Radiohead,Killswitch Engage
+Radiohead,Jay-Z
+Radiohead,Band of Horses
+Radiohead,Justin Timberlake
+Radiohead,Rush
+Radiohead,Lifehouse
+Radiohead,Nelly Furtado
+Radiohead,Iron & Wine
+Radiohead,Beach House
+Radiohead,The Chemical Brothers
+Radiohead,Yellowcard
+Radiohead,Mumford & Sons
+Radiohead,Dark Tranquillity
+Radiohead,Cute Is What We Aim For
+Radiohead,Breathe Carolina
+Radiohead,Lykke Li
+Radiohead,John Williams
+Radiohead,Thrice
+Radiohead,BIG BANG
+Radiohead,Pierce the Veil
+Radiohead,The Dresden Dolls
+Radiohead,KT Tunstall
+Radiohead,The Magnetic Fields
+Radiohead,Bee Gees
+Radiohead,The Hush Sound
+Radiohead,Koop
+Radiohead,Céline Dion
+Radiohead,Descendents
+Radiohead,LUNA SEA
+Radiohead,Flowing Tears
+Radiohead,Bikini Kill
+Radiohead,Florence Valentin
+Radiohead,The Hood Internet
+Radiohead,Blitzen Trapper
 Coldplay,Lady Gaga
 Coldplay,Nirvana
 Coldplay,Arctic Monkeys
@@ -36,6 +356,63 @@ Coldplay,Green Day
 Coldplay,Linkin Park
 Coldplay,The Smiths
 Coldplay,The Cure
+Coldplay,System of a Down
+Coldplay,Kings of Leon
+Coldplay,Oasis
+Coldplay,MGMT
+Coldplay,Foo Fighters
+Coldplay,The Strokes
+Coldplay,Death Cab for Cutie
+Coldplay,Led Zeppelin
+Coldplay,30 Seconds to Mars
+Coldplay,Queen
+Coldplay,The Rolling Stones
+Coldplay,David Bowie
+Coldplay,Franz Ferdinand
+Coldplay,Gorillaz
+Coldplay,U2
+Coldplay,The Smashing Pumpkins
+Coldplay,Marilyn Manson
+Coldplay,Eminem
+Coldplay,The Kooks
+Coldplay,Rammstein
+Coldplay,Rihanna
+Coldplay,The White Stripes
+Coldplay,Guns N' Roses
+Coldplay,The Doors
+Coldplay,Florence + the Machine
+Coldplay,Daft Punk
+Coldplay,Slipknot
+Coldplay,My Chemical Romance
+Coldplay,Sigur Rós
+Coldplay,Björk
+Coldplay,Ke$ha
+Coldplay,Panic! At the Disco
+Coldplay,Queens of the Stone Age
+Coldplay,Modest Mouse
+Coldplay,Nightwish
+Coldplay,Korn
+Coldplay,Pixies
+Coldplay,Crystal Castles
+Coldplay,Black Eyed Peas
+Coldplay,Ramones
+Coldplay,Breaking Benjamin
+Coldplay,Alice in Chains
+Coldplay,Papa Roach
+Coldplay,Madonna
+Coldplay,Nickelback
+Coldplay,Portishead
+Coldplay,Slayer
+Coldplay,The Used
+Coldplay,Opeth
+Coldplay,Tegan and Sara
+Coldplay,A Perfect Circle
+Coldplay,In Flames
+Coldplay,Sonic Youth
+Coldplay,Kate Nash
+Coldplay,Kelly Clarkson
+Coldplay,The Fray
+Coldplay,The Shins
 Lady Gaga,Nirvana
 Lady Gaga,Arctic Monkeys
 Lady Gaga,Paramore
@@ -46,6 +423,49 @@ Lady Gaga,Metallica
 Lady Gaga,Pink Floyd
 Lady Gaga,Green Day
 Lady Gaga,Linkin Park
+Lady Gaga,The Smiths
+Lady Gaga,The Cure
+Lady Gaga,System of a Down
+Lady Gaga,Kings of Leon
+Lady Gaga,Oasis
+Lady Gaga,MGMT
+Lady Gaga,Foo Fighters
+Lady Gaga,The Strokes
+Lady Gaga,Death Cab for Cutie
+Lady Gaga,Led Zeppelin
+Lady Gaga,30 Seconds to Mars
+Lady Gaga,Queen
+Lady Gaga,The Rolling Stones
+Lady Gaga,David Bowie
+Lady Gaga,Franz Ferdinand
+Lady Gaga,Gorillaz
+Lady Gaga,U2
+Lady Gaga,The Smashing Pumpkins
+Lady Gaga,Marilyn Manson
+Lady Gaga,Eminem
+Lady Gaga,The Kooks
+Lady Gaga,Rammstein
+Lady Gaga,Rihanna
+Lady Gaga,The White Stripes
+Lady Gaga,Guns N' Roses
+Lady Gaga,The Doors
+Lady Gaga,Florence + the Machine
+Lady Gaga,Daft Punk
+Lady Gaga,Slipknot
+Lady Gaga,My Chemical Romance
+Lady Gaga,Sigur Rós
+Lady Gaga,Björk
+Lady Gaga,Ke$ha
+Lady Gaga,Panic! At the Disco
+Lady Gaga,Queens of the Stone Age
+Lady Gaga,Modest Mouse
+Lady Gaga,Nightwish
+Lady Gaga,Korn
+Lady Gaga,Pixies
+Lady Gaga,Crystal Castles
+Lady Gaga,Black Eyed Peas
+Lady Gaga,Ramones
+Lady Gaga,Breaking Benjamin
 Nirvana,Arctic Monkeys
 Nirvana,Paramore
 Nirvana,The Killers
@@ -54,10 +474,209 @@ Nirvana,Red Hot Chili Peppers
 Nirvana,Metallica
 Nirvana,Pink Floyd
 Nirvana,Green Day
+Nirvana,Linkin Park
+Nirvana,The Smiths
+Nirvana,The Cure
+Nirvana,System of a Down
+Nirvana,Kings of Leon
+Nirvana,Oasis
+Nirvana,MGMT
+Nirvana,Foo Fighters
+Nirvana,The Strokes
+Nirvana,Death Cab for Cutie
+Nirvana,Led Zeppelin
+Nirvana,30 Seconds to Mars
+Nirvana,Queen
+Nirvana,The Rolling Stones
+Nirvana,David Bowie
+Nirvana,Franz Ferdinand
+Nirvana,Gorillaz
+Nirvana,U2
+Nirvana,The Smashing Pumpkins
+Nirvana,Marilyn Manson
+Nirvana,Eminem
+Nirvana,The Kooks
+Nirvana,Rammstein
+Nirvana,Rihanna
+Nirvana,The White Stripes
+Nirvana,Guns N' Roses
+Nirvana,The Doors
+Nirvana,Florence + the Machine
+Nirvana,Daft Punk
+Nirvana,Slipknot
+Nirvana,My Chemical Romance
+Nirvana,Sigur Rós
+Nirvana,Björk
+Nirvana,Ke$ha
+Nirvana,Panic! At the Disco
+Nirvana,Queens of the Stone Age
+Nirvana,Modest Mouse
+Nirvana,Nightwish
+Nirvana,Korn
+Nirvana,Pixies
+Nirvana,Crystal Castles
+Nirvana,Black Eyed Peas
+Nirvana,Ramones
 Arctic Monkeys,Paramore
 Arctic Monkeys,The Killers
 Arctic Monkeys,Placebo
 Arctic Monkeys,Red Hot Chili Peppers
 Arctic Monkeys,Metallica
+Arctic Monkeys,Pink Floyd
+Arctic Monkeys,Green Day
+Arctic Monkeys,Linkin Park
+Arctic Monkeys,The Smiths
+Arctic Monkeys,The Cure
+Arctic Monkeys,System of a Down
+Arctic Monkeys,Kings of Leon
+Arctic Monkeys,Oasis
+Arctic Monkeys,MGMT
+Arctic Monkeys,Foo Fighters
+Arctic Monkeys,The Strokes
+Arctic Monkeys,Death Cab for Cutie
+Arctic Monkeys,Led Zeppelin
+Arctic Monkeys,30 Seconds to Mars
+Arctic Monkeys,Queen
+Arctic Monkeys,The Rolling Stones
+Arctic Monkeys,David Bowie
+Arctic Monkeys,Franz Ferdinand
+Arctic Monkeys,Gorillaz
+Arctic Monkeys,U2
+Arctic Monkeys,The Smashing Pumpkins
+Arctic Monkeys,Marilyn Manson
+Arctic Monkeys,Eminem
+Arctic Monkeys,The Kooks
+Arctic Monkeys,Rammstein
+Arctic Monkeys,Rihanna
+Arctic Monkeys,The White Stripes
+Arctic Monkeys,Guns N' Roses
+Arctic Monkeys,The Doors
+Arctic Monkeys,Florence + the Machine
+Arctic Monkeys,Daft Punk
+Arctic Monkeys,Slipknot
+Arctic Monkeys,My Chemical Romance
+Arctic Monkeys,Sigur Rós
+Arctic Monkeys,Björk
+Arctic Monkeys,Ke$ha
+Arctic Monkeys,Panic! At the Disco
 Paramore,The Killers
 Paramore,Placebo
+Paramore,Red Hot Chili Peppers
+Paramore,Metallica
+Paramore,Pink Floyd
+Paramore,Green Day
+Paramore,Linkin Park
+Paramore,The Smiths
+Paramore,The Cure
+Paramore,System of a Down
+Paramore,Kings of Leon
+Paramore,Oasis
+Paramore,MGMT
+Paramore,Foo Fighters
+Paramore,The Strokes
+Paramore,Death Cab for Cutie
+Paramore,Led Zeppelin
+Paramore,30 Seconds to Mars
+Paramore,Queen
+Paramore,The Rolling Stones
+Paramore,David Bowie
+Paramore,Franz Ferdinand
+Paramore,Gorillaz
+Paramore,U2
+Paramore,The Smashing Pumpkins
+Paramore,Marilyn Manson
+Paramore,Eminem
+Paramore,The Kooks
+Paramore,Rammstein
+Paramore,Rihanna
+The Killers,Placebo
+The Killers,Red Hot Chili Peppers
+The Killers,Metallica
+The Killers,Pink Floyd
+The Killers,Green Day
+The Killers,Linkin Park
+The Killers,The Smiths
+The Killers,The Cure
+The Killers,System of a Down
+The Killers,Kings of Leon
+The Killers,Oasis
+The Killers,MGMT
+The Killers,Foo Fighters
+The Killers,The Strokes
+The Killers,Death Cab for Cutie
+The Killers,Led Zeppelin
+The Killers,30 Seconds to Mars
+The Killers,Queen
+The Killers,The Rolling Stones
+The Killers,David Bowie
+The Killers,Franz Ferdinand
+The Killers,Gorillaz
+The Killers,U2
+The Killers,The Smashing Pumpkins
+The Killers,Marilyn Manson
+The Killers,Eminem
+The Killers,The Kooks
+Placebo,Red Hot Chili Peppers
+Placebo,Metallica
+Placebo,Pink Floyd
+Placebo,Green Day
+Placebo,Linkin Park
+Placebo,The Smiths
+Placebo,The Cure
+Placebo,System of a Down
+Placebo,Kings of Leon
+Placebo,Oasis
+Placebo,MGMT
+Placebo,Foo Fighters
+Placebo,The Strokes
+Placebo,Death Cab for Cutie
+Placebo,Led Zeppelin
+Placebo,30 Seconds to Mars
+Placebo,Queen
+Placebo,The Rolling Stones
+Red Hot Chili Peppers,Metallica
+Red Hot Chili Peppers,Pink Floyd
+Red Hot Chili Peppers,Green Day
+Red Hot Chili Peppers,Linkin Park
+Red Hot Chili Peppers,The Smiths
+Red Hot Chili Peppers,The Cure
+Red Hot Chili Peppers,System of a Down
+Red Hot Chili Peppers,Kings of Leon
+Red Hot Chili Peppers,Oasis
+Red Hot Chili Peppers,MGMT
+Red Hot Chili Peppers,Foo Fighters
+Red Hot Chili Peppers,The Strokes
+Red Hot Chili Peppers,Death Cab for Cutie
+Red Hot Chili Peppers,Led Zeppelin
+Red Hot Chili Peppers,30 Seconds to Mars
+Metallica,Pink Floyd
+Metallica,Green Day
+Metallica,Linkin Park
+Metallica,The Smiths
+Metallica,The Cure
+Metallica,System of a Down
+Metallica,Kings of Leon
+Metallica,Oasis
+Metallica,MGMT
+Metallica,Foo Fighters
+Metallica,The Strokes
+Metallica,Death Cab for Cutie
+Metallica,Led Zeppelin
+Pink Floyd,Green Day
+Pink Floyd,Linkin Park
+Pink Floyd,The Smiths
+Pink Floyd,The Cure
+Pink Floyd,System of a Down
+Pink Floyd,Kings of Leon
+Pink Floyd,Oasis
+Pink Floyd,MGMT
+Green Day,Linkin Park
+Green Day,The Smiths
+Green Day,The Cure
+Green Day,System of a Down
+Green Day,Kings of Leon
+Linkin Park,The Smiths
+Linkin Park,The Cure
+Linkin Park,System of a Down
+The Smiths,The Cure
+The Smiths,System of a Down
